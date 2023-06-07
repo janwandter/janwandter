@@ -3,8 +3,8 @@
 2) [wubbadubbadubhub](https://wubbadubbadubhub.netlify.app): Proyecto en grupo realizado en Vue de una wiki de Rick and Morty, que consume la browsable [api](https://rickandmortyapi.com/api) de Rick and Morty.
 3) [splittypieClone](https://splittypie.netlify.app/): PWA realizada en grupo imitando la página de división de gastos [splittypie](https://splittypie.com/), utilizando Html, Javascript y css.
 4) [FlightTracker](https://flightstrack.netlify.app/): Página hecha en React conectada a websocket (actualmente cerrado) para visualización de vuelos en tiempo real. 
-
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=janwandter&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=janwandter&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janwandter&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💻 Tech Stack:
