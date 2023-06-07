@@ -1,6 +1,6 @@
 # Proyectos web
 1) [FlightTracker](https://flightstrack.netlify.app/): Página hecha en React conectada a websocket (actualmente cerrado) para visualización de vuelos en tiempo real. 
-2) [ticketsellermvp](ticketsellermvp.me): Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
+2) [ticketsellermvp](https://ticketsellermvp.me): Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
 3) [wubbadubbadubhub](wubbadubbadubhub.netlify.app): Proyecto en grupo realizado en Vue de una wiki de Rick and Morty, que consume la browsable [api](https://rickandmortyapi.com/api) de Rick and Morty.
 4) [splittypieClone](https://splittypie.netlify.app/): PWA imitando la página de división de gastos [splittypie](https://splittypie.com/).
 
