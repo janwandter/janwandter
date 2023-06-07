@@ -5,7 +5,6 @@
 4) [FlightTracker](https://flightstrack.netlify.app/): Página hecha en React conectada a websocket (actualmente cerrado) para visualización de vuelos en tiempo real. 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=janwandter&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=janwandter&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janwandter&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💻 Tech Stack:
