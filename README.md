@@ -1,5 +1,5 @@
 # Proyectos web
-1) [ticketsellermvp](https://ticketsellermvp.me): Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
+1) ticketsellermvp: Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
 2) [wubbadubbadubhub](https://wubbadubbadubhub.netlify.app): Proyecto en grupo realizado en Vue de una wiki de Rick and Morty, que consume la browsable [api](https://rickandmortyapi.com/api) de Rick and Morty.
 3) [splittypieClone](https://splittypie.netlify.app/): PWA realizada en grupo imitando la página de división de gastos [splittypie](https://splittypie.com/), utilizando Html, Javascript y css.
 4) [FlightTracker](https://flightstrack.netlify.app/): Página hecha en React conectada a websocket (actualmente cerrado) para visualización de vuelos en tiempo real. 
