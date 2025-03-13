@@ -1,5 +1,5 @@
 # Proyectos web
-1) [tryBilly](tryBilly.cl): Aplicación para compartir cuentas de restaurantes y bares que utiliza LLMs para procesar boletas y mejorar el cálculo de consumo de cada persona.
+1) [tryBilly](https://tryBilly.cl): Aplicación para compartir cuentas de restaurantes y bares que utiliza LLMs para procesar boletas y mejorar el cálculo de consumo de cada persona.
 2) ticketsellermvp: Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
 3) [wubbadubbadubhub](https://wubbadubbadubhub.netlify.app): Proyecto en grupo realizado en Vue de una wiki de Rick and Morty, que consume la browsable [api](https://rickandmortyapi.com/api) de Rick and Morty.
 4) [splittypieClone](https://splittypie.netlify.app/): PWA realizada en grupo imitando la página de división de gastos [splittypie](https://splittypie.com/), utilizando Html, Javascript y css.
