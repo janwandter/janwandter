@@ -1,8 +1,9 @@
 # Proyectos web
-1) ticketsellermvp: Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
-2) [wubbadubbadubhub](https://wubbadubbadubhub.netlify.app): Proyecto en grupo realizado en Vue de una wiki de Rick and Morty, que consume la browsable [api](https://rickandmortyapi.com/api) de Rick and Morty.
-3) [splittypieClone](https://splittypie.netlify.app/): PWA realizada en grupo imitando la página de división de gastos [splittypie](https://splittypie.com/), utilizando Html, Javascript y css.
-4) [FlightTracker](https://flightstrack.netlify.app/): Página hecha en React conectada a websocket (actualmente cerrado) para visualización de vuelos en tiempo real. 
+1) [tryBilly](tryBilly.cl): Aplicación para compartir cuentas de restaurantes y bares que utiliza LLMs para procesar boletas y mejorar el cálculo de consumo de cada persona.
+2) ticketsellermvp: Página hecha en React de proyecto en grupo para la venta de tickets para eventos, conectada a API Gateway hecha en Express. Con tencologías AWS EC2, S3, Cloudfront, SES, Route53, Lambda. 
+3) [wubbadubbadubhub](https://wubbadubbadubhub.netlify.app): Proyecto en grupo realizado en Vue de una wiki de Rick and Morty, que consume la browsable [api](https://rickandmortyapi.com/api) de Rick and Morty.
+4) [splittypieClone](https://splittypie.netlify.app/): PWA realizada en grupo imitando la página de división de gastos [splittypie](https://splittypie.com/), utilizando Html, Javascript y css.
+5) [Confiesame ✝️](https://confiesame.vercel.app/): Página para preparar la confesión católica.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janwandter&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💻 Tech Stack:
